@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/225651821005147354/bcc0fc57aa22432490b0d9e5b72fdf5a/artifacts
+end_time: 1684222299355
+entry_point_name: ''
+experiment_id: '225651821005147354'
+lifecycle_stage: active
+run_id: bcc0fc57aa22432490b0d9e5b72fdf5a
+run_name: enchanting-tern-145
+run_uuid: bcc0fc57aa22432490b0d9e5b72fdf5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684222294201
+status: 3
+tags: []
+user_id: sayti
